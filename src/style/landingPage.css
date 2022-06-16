@@ -1,0 +1,35 @@
+.myBg {
+    height: 100vh;
+    background: url(https://media3.giphy.com/media/EqjqXkrEb9XNEJam1A/giphy.gif?cid=ecf05e47fownnllldxsav2nk2fzba383t4udqhj0b1sgkk7w&rid=giphy.gif&ct=g);
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px black;
+    line-height: 1;
+    text-align: center;
+}
+
+.myTrending {
+    height: auto;
+    background: url(../assets/images/bg/spiderman.jpg);
+    background-size: auto;
+}
+
+.mySuperhero {
+    height: auto;
+    background: url(../assets/images/bg/spiderman.jpg);
+    background-size: auto;
+}
+
+.movieImage {
+    height: auto;
+    margin-top: 20px;
+}
